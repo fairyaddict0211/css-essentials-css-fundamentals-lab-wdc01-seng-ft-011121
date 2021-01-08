@@ -38,7 +38,7 @@ body {
   color: purple;
 }
 
-#details {
+#details div{
   float: left;
   
 }
