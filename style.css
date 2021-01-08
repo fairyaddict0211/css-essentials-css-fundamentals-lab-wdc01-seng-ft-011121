@@ -18,6 +18,7 @@ figcaption {
   background-color: lavender;
   color: purple;
   font-style: italic;
+  font-size: 12;
   padding: 2px;
   text-align: center;
 }
