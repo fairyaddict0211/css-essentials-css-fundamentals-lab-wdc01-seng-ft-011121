@@ -40,7 +40,8 @@ body {
 
 #details div{
   float: left;
-  
+  background-color: black
+  color: purple;
 }
 
  
