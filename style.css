@@ -15,9 +15,8 @@ body {
   margin: 0;
 }
 
-a:link {
-  background-color: grey
-color: blue;
-padding: 10px
-text-align: center
+nav a {
+  padding: 10px;
+  background-color: blue;
+  margin: 0 auto;
 }
