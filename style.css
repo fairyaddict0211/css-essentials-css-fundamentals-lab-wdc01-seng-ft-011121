@@ -30,5 +30,11 @@ nav a {
   margin: 0 auto;
   color: purple;
 
-  
 }
+
+ .topnav-centered a {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+  }
