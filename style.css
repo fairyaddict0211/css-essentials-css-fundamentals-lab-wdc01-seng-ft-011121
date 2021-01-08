@@ -9,7 +9,7 @@ margin: 0 auto;
 }
 
 figcaption {
-  background-color: black;
+  background-color: lavender;
   color: white;
   font-style: italic;
   padding: 2px;
@@ -23,7 +23,7 @@ body {
   margin: 0;
 }
 
-a {
+nav a {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
