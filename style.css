@@ -16,5 +16,8 @@ body {
 }
 
 a:link {
-color: black;
+  background-color: grey
+color: blue;
+padding: 10px
+text-align: center
 }
