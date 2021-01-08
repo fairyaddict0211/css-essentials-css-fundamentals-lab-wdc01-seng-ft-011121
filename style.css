@@ -16,7 +16,7 @@ img {
   
 }
 
-nav figcaption {
+nav, figcaption {
   background-color: black;
   color: purple;
   font-style: italic;
