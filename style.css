@@ -30,6 +30,10 @@ body {
   margin: 0;
 }
 
-
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
 
  
