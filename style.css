@@ -16,9 +16,10 @@ body {
 }
 
 nav a {
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   background-color: red;
   margin: 0 auto;
   color: white;
-  text-align: center;
+  
 }
