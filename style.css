@@ -7,7 +7,14 @@ img {
 margin: 0 auto;
   
 }
-
+nav a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lavender;
+  margin: 0 auto;
+  color: purple;
+}
 figcaption {
   background-color: lavender;
   color: purple;
@@ -23,13 +30,6 @@ body {
   margin: 0;
 }
 
-nav a {
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: lavender;
-  margin: 0 auto;
-  color: purple;
-}
+
 
  
