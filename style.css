@@ -6,7 +6,7 @@ h1 {
 nav a {
   margin: 0 auto; 
   padding: 0 10px;
-  background-color: lavender;
+  background-color: black;
   color: purple;
 }
 
@@ -16,7 +16,7 @@ img {
   
 }
 figcaption {
-  background-color: lavender;
+  background-color: black;
   color: purple;
   font-style: italic;
   font-size: 12;
