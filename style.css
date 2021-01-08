@@ -2,14 +2,7 @@ h1 {
   text-align: center;
 }
 
-img {
-  display: block;
-margin: 0 auto;
-  
-}
-
 nav a {
-  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: lavender;
@@ -17,6 +10,11 @@ nav a {
   color: purple;
 }
 
+img {
+  display: block;
+margin: 0 auto;
+  
+}
 figcaption {
   background-color: lavender;
   color: purple;
