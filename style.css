@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  color: purple;
 }
 
 nav a {
@@ -11,7 +12,7 @@ nav a {
 
 img {
   display: block;
-margin: 0 auto;
+  margin: 0 auto;
   
 }
 figcaption {
@@ -22,7 +23,6 @@ figcaption {
   padding: 2px;
   text-align: center;
 }
-
 
 body {
   width: 100%;
