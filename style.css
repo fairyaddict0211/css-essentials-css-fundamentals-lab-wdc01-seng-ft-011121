@@ -15,7 +15,8 @@ img {
   margin: 0 auto;
   
 }
-figcaption {
+
+nav figcaption {
   background-color: black;
   color: purple;
   font-style: italic;
