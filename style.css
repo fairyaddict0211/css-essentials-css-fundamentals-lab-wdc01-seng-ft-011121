@@ -3,7 +3,7 @@ h1 {
 }
 
 nav a {
-  margin: center; 
+  margin: 0; 
   padding: 0 10px;
   background-color: lavender;
   color: purple;
