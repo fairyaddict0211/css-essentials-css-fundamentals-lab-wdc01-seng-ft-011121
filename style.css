@@ -2,9 +2,10 @@ h1 {
   text-align: center;
 }
 
-img {
-  align-content: center;
-  }
+.img-container {
+        text-align: center;
+        display: block;
+      }
 
 
 
