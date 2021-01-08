@@ -2,10 +2,7 @@ h1 {
   text-align: center;
 }
 
-<img> {
-        text-align: center;
-      }
-
+.top_image img { margin:0 auto; }
 
 
 body {
