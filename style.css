@@ -3,10 +3,9 @@ h1 {
 }
 
 nav a {
-  margin: auto; 
   padding: 0 10px;
-  background-color: lavender;
-  color: purple;
+  background-color: grey;
+  margin: 0 auto;
 }
 
 img {
