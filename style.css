@@ -24,17 +24,12 @@ body {
 }
 
 nav a {
+  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: lavender;
   margin: 0 auto;
   color: purple;
-
 }
 
- .topnav-centered a {
-    position: relative;
-    top: 0;
-    left: 0;
-    transform: none;
-  }
+ 
